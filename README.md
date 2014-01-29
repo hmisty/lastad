@@ -5,9 +5,13 @@ lastad - your last adx, dsp, and ssp
 
 why
 ======
-http://www.adweek.com/news/technology/ad-wreck-144994
+very scattered industry: http://www.adweek.com/news/technology/ad-wreck-144994
+
+what
+======
+learn the concepts: http://www.zhihu.com/question/20363959/answer/15054249
 
 reference
 ======
-http://en.wikipedia.org/wiki/Real-time_bidding
+list of RTB companies: http://en.wikipedia.org/wiki/Real-time_bidding
 
