@@ -9,7 +9,9 @@ very scattered industry: http://www.adweek.com/news/technology/ad-wreck-144994
 
 what
 ======
-learn the concepts: http://www.zhihu.com/question/20363959/answer/15054249
+learn the concepts: 
+ - http://www.zhihu.com/question/20363959/answer/15054249
+ - http://www.damndigital.com/archives/59117
 
 reference
 ======
